@@ -1,0 +1,9 @@
+function load(){
+  const user = {
+    name: 'Yap',
+    email: 'afan76781@gmail.com'
+  }
+  return user
+}
+
+export {load}
