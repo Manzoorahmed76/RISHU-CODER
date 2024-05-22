@@ -70,11 +70,11 @@
                       max-lg:mx-10 max-lg:my-8
                       max-sm:text-justify">
               <!-- First Line -->
-              <LinedTitle title="Mr,AbhiShek"/>
+              <LinedTitle title="Mr,RISHU"/>
               <!-- Introduction -->
               <div class="mx-[1rem]">
                 <p1>
-                  Hello! I am Mr,AbhiShek, and iam programmer, bot developer, designer.
+                  Hello! I am Mr,RISHU, and iam programmer, bot developer, designer.
                   Welcome to my web page!
                 </p1>
                 <div class="flex-middle gap-4 pt-5 max-sm:flex-col max-sm:items-start">
