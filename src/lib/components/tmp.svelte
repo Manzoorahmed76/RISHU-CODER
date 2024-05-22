@@ -135,11 +135,11 @@
           <div class="flex-middle flex-col gap-5 ms-10 text-justify
                       max-lg:mx-10 max-lg:my-8">
               <!-- First Line -->
-              <LinedTitle title="Mr,AbhiShek"/>
+              <LinedTitle title="Mr,RISHU"/>
               <!-- Introduction -->
               <div class="mx-[1rem]">
                 <p1>
-                  Hello! I am Mr,AbhiShek, and iam programmer, bot developer, designer.
+                  Hello! I am Mr,RISHU, and iam programmer, bot developer, designer.
 
                   Welcome to my web page!
                 </p1>
